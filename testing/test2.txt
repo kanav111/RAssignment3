@@ -1,0 +1,17 @@
+{
+
+    "name": "Rakesh",
+    "email": "Rakesh@test.com"
+    "organizations: [{
+
+                        "id": "1",
+                        "name": "ORg1"
+
+                    },
+                    {
+
+                        "id": "2",
+                        "name": "ORg2"
+
+                    }]
+}
